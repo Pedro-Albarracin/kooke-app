@@ -1,2 +1,2 @@
 # kooke-app
-Kooke App for Restaurants
+Kooke App for Restaurants - Flutter
